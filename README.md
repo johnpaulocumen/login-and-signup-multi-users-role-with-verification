@@ -61,6 +61,6 @@ This project is a PHP-based login and signup system that supports multiple user 
    git clone https://github.com/johnpaulocumen/login-and-signup-multi-users-role-with-verification.git
 
 ## Project Screenshot
-Here’s what the project looks like in action:
+Here’s what the project looks like:
 
 ![Project Preview](includes/screenshot.png)
